@@ -7,10 +7,9 @@ This project is a **Power BI dashboard** created using **CSV data** for analyzin
 The goal of this project is to help stakeholders quickly understand policy distribution, current status, and overall insurance performance through interactive visualizations.
 
 
-📸 Dashboard Screenshots
-🏠 Overall Dashboard View
+## 📸 Dashboard Screenshots
 
-Displays a complete overview of insurance policies with key KPIs such as Total Policies, Active Policies, and Non-Active Policies based on the reference date 10/07/2025.
+
 ![Insurance Dashboard](Screenshot%202026-01-23%20145814.png)
 
 ---
