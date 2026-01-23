@@ -6,8 +6,10 @@ This project is a **Power BI dashboard** created using **CSV data** for analyzin
 
 The goal of this project is to help stakeholders quickly understand policy distribution, current status, and overall insurance performance through interactive visualizations.
 
+ 
+Screenshot: https://github.com/tejaspocchi-bit/powerbi-insurance-analysis/blob/main/Screenshot%202026-01-23%20145814.png
+![Dashboard Overview]([screenshots/dashboard_overview.png](https://github.com/tejaspocchi-bit/powerbi-insurance-analysis/blob/main/Screenshot%202026-01-23%20145814.png))
 
-Screenshot 2026-01-23 145814.png
 ---
 
 ## 🗂️ Data Source
